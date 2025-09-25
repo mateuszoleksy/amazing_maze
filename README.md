@@ -10,7 +10,8 @@ The first level looks like this:
 The next levels include more darker areas and sometimes a traps...
 <img width="2560" height="1214" alt="image" src="https://github.com/user-attachments/assets/3167b119-2a0a-40ab-9eb3-a28b9ce69891" />
 
-Also mention that, there are 7 active levels.
+Also mention that, there are 7 active levels. The controls are quite easy, You move Your Cube by arrows.
 
 Unfortunatelly the project was abaddoned by me due to lack of time. Maybe in the future I will realocate it on 'Workspace vector' once again.
+
 
